@@ -10,10 +10,10 @@
 # Description:
 #
 # This Makefile is designed to automate the process of building and packaging
-# the Doc Template for RISC-V Extensions.
+# the RISC-V Logic Analyzer Trace Specification.
 
 DOCS := \
-	spec-sample.adoc
+	logic-analyzer-trace.adoc
 
 DATE ?= $(shell date +%Y-%m-%d)
 VERSION ?= v0.0.0

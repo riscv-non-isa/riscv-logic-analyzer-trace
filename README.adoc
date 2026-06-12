@@ -1,8 +1,10 @@
-= RISC-V Specification Template
+= RISC-V Logic Analyzer Trace Specification
 
-This repository serves as a template for creating GitHub repositories within the RISC-V organization for the purpose of developing specifications. It aims to facilitate and standardize the process of specification development.
+This repository contains the RISC-V Logic Analyzer Trace specification, developed by the Logic Analyzer Trace Task Group under the SOC Infrastructure Horizontal Committee. This is a non-ISA specification.
 
-NOTE: If you are viewing this in a specification repository, kindly update the title for this section and provide an introduction relevant to your repository.
+* Jira: https://riscv.atlassian.net/browse/RVS-4762[RVS-4762] (specification) / https://riscv.atlassian.net/browse/RVG-971[RVG-971] (task group)
+* Mailing list: https://lists.riscv.org/g/tech-logic-analyzer-trace[tech-logic-analyzer-trace]
+* Confluence: https://riscv.atlassian.net/wiki/spaces/LATR[LATR space]
 
 == License
 
